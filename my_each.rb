@@ -8,7 +8,7 @@ def my_each(array)
   collection
 end
 
-my_each(tas) do |ta|
-      ta = "testing 1 2 3"
-    end
+my_each do 
+end 
+      
 
