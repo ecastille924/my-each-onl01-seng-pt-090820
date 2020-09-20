@@ -1,5 +1,5 @@
 def my_each(array)
-  array.each do |thing|
+  array.collect do |thing|
     puts thing
 
   end
