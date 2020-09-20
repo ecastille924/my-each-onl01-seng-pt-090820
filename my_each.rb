@@ -8,7 +8,6 @@ def my_each(array)
   collection
 end
 
-my_each do 
-end 
+
       
 
