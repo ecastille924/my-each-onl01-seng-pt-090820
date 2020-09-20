@@ -1,6 +1,6 @@
 def my_each(array)
   array.collect do |thing|
-    puts thing
+    thing
 
   end
 end
